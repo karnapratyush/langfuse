@@ -1,0 +1,16 @@
+[project]
+name = "project-1-langfuse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.4.2",
+    "langchain-community>=0.4.2",
+    "langchain-experimental>=0.4.2",
+    "langchain-openai>=1.6.6",
+    "langfuse>=4.15.6",
+    "langgraph>=1.2.12",
+    "pandas>=3.0.6",
+    "wikipedia>=1.4.0",
+]
